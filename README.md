@@ -27,7 +27,7 @@ WSI_DIRS = [
 
 ## How to Run
 ### Set up your environment 
-Create and activate the environment using the provided tgbm.tml file:
+Create and activate the environment using the provided tf_multimodal_cpu.yml file:
 
 ```python
 conda env create -f tf_multimodal_cpu.yml
