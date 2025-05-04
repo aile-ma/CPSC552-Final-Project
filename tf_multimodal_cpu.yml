@@ -1,0 +1,35 @@
+name: tf_multimodal_cpu
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - tensorflow=2.10
+  - keras
+  - pytorch=1.13.1
+  - torchvision
+  - scikit-learn
+  - xgboost
+  - opencv
+  - pillow
+  - openslide-python
+  - matplotlib
+  - seaborn
+  - albumentations
+  - pandas
+  - numpy
+  - scanpy
+  - anndata
+  - umap-learn
+  - shap
+  - transformers
+  - einops
+  - tensorboard
+  - lifelines
+  - scikit-survival
+  - pycox
+  - tqdm
+  - jupyter
+  - notebook
+  - ipykernel
+  - pyyaml
